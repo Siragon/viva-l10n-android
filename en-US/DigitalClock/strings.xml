@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_theme_pacfic_rim">Digital Widget Theme Pacfic Rim</string>
+    <string name="app_name_theme_nature_carols">Digital Widget Theme Nature Carols</string>
+    <string name="app_name_theme_hamicat">Analog Widget Theme Hamicat</string>
+    <string name="app_name_theme_fresh">Digital Widget Theme Fresh</string>
+    <string name="app_name_theme_sediment">Digital Widget Theme Sediment</string>
+    <string name = "am">AM</string>
+    <string name = "pm">PM</string>
+
+</resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WisdomGene</string>
+        <!-- label for application name -->
+    <string name="app_name_label">App</string>
+<!-- konka-zhaoyang-KonkaWisdomGene-20120620-start -->
+    <string name="header_category_konkawisdomgene">WisdomGene</string>
+    <!--
+    <string name="wisdom_gene_switch_settings">Switch Settings</string>
+    -->
+    <!-- konka-zhangyanni-konkaWisdomGene-20130321-start -->
+    <!--
+    <string name="wisdom_gene_switch_lists">"lists of options"</string> 
+    -->
+    <string name="wisdom_gene_switch_lists">"WisdomGene(click it and read about function)"</string>
+    <!-- konka-zhangyanni-konkaWisdomGene-20130321-end -->
+    <string name="against_eaveasdropping_settings_title">Smart Anti-eavesdrop</string>
+    
+    <string name="smart_call_settings_title">Smart Hands-free</string>
+    <string name="switch_mutually_exclusive_title">Prompting</string>
+    <string name="against_eaveasdropping_message">Open Smart Anti-eavesdrop, close Smart Hands-free !</string>
+    <string name="smart_call_message">Open Smart Hands-free, close Smart Anti-eavesdrop !</string>
+    <string name="show_dailog_true">OK</string>
+    <string name="show_dailog_cancel">Cancel</string>
+    
+    <string name="direct_call_settings_title">Direct Call</string>
+    <string name="smart_stay_settings_title">Smart Stay</string>
+    <string name="smart_alert_settings_title">Smart Alert</string>
+    <string name="increase_volume_settings_title">Pocket Mode</string><!-- InCrease Volume -->
+    <string name="unlock_action_settings_title">"Unlock Action"</string>
+    <string name="flip_mute_settings_title">"TurnOver to Mute"</string>
+    <string name="ringtone_fade_settings_title">"Ringtone Fade"</string> 
+
+		<!-- konka-xietianduo-20140312-start -->
+    <string name="glove_mode_settings_title">"Auto Answer"</string>
+    <!-- konka-xietianduo-20140312-end -->    
+    <!-- konka-hoking-20130518-start -->
+    <string name="magic_unlock_settings_title">"Blowing Unlock"</string>
+    <!-- konka-hoking-20130518-end -->
+    
+    <string name="against_eaveasdropping_help_info">When answering a call, the light sensor will automatically adjust the volume according to the distance between the screen and your face, say, if there is a comparatively long distance, then volume will be turned up accordingly, and vice versa. The function of "Smart Hands-free" will be shut down when the anti-eavesdrop function is opened. Make sure that the light-sensor camera is not blocked out while enjoying this process. </string>
+    <string name="against_eaveasdropping_help_info_none_smartcall">When answering a call, the light sensor will automatically adjust the volume according to the distance between the screen and your face, say, if there is a comparatively long distance, then volume will be turned up accordingly, and vice versa.  Make sure that the light-sensor camera is not blocked out while enjoying this process. </string>
+    <string name="smart_call_help_info">If you need to switch the device from normal phone mode to speakerphone feature, you just need to pick it up and hold it to your ear and it will automatically deactivate the speakerphone feature and change to normal phone mode, vice versa. The function of anti-eavesdrop will be shut down when "Smart Hands-free" is opened. Make sure that the light-sensor camera is not blocked out while enjoying this process. </string>
+    <string name="smart_call_help_info_none_eaveasdropping">If you need to switch the device from normal phone mode to speakerphone feature, you just need to pick it up and hold it to your ear and it will automatically deactivate the speakerphone feature and change to normal phone mode, vice versa. Make sure that the light-sensor camera is not blocked out while enjoying this process. </string>
+
+    <string name="direct_call_help_info">Call contact whose message details are currently onscreen when the device is brought near the face.</string>
+    <string name="smart_stay_help_info">Thanks to the eye-tracking technology of the front-facing camera, the device screen will "stay" in the same brightness range while you are reading or browsing, enabling you to get rid off "screen down" and enjoy the whole smart experience. </string>
+    <string name="smart_alert_help_info">Anytime you pick up the device, it will smartly alert you about the missed calls, new messages and set schedules via normal vibration.</string>
+    <string name="increase_volume_help_info">Ringtone volume increases when device is in pocket or bag.</string><!-- InCrease Volume -->
+    <string name="unlock_action_help_info">"When light screen mobile phone lock screen interface, over the Palm can be unlocked cell phones near the front - facing camera."</string><!-- Unlock Action -->
+        
+    <string name="direct_call_select_title">Choose the SIM card\'s type</string>
+    <string name="direct_call_confirm">confirm</string>
+    <string name="direct_call_cancel">cancel</string>
+    <!-- konka-zhaoyang-KonkaWisdomGene-20120620-end -->
+    
+    <!-- konka-zhaoyang-KonkaWisdomGene-20140213-start -->
+    <string name="glove_mode_help_info">"　　When you wear gloves touching screen invalid, if an incoming call,you just pick up the phone to the ear,then you can automatically answer the call through gravity sensor and proximity sensor feature."</string> 
+    <string name="magic_unlock_help_info">"　　When light mobile phone lock screen interface,for 2 seconds to unlock blowing into the microphone."</string> 
+    <string name="lock_action_help_info">"　　When light  cell phone screen interface,the palm blowing through .the front -facing camera can lock the screen."</string> 
+    <string name="anti_fake_touch_help_info">"　　Thanks to proximity sensor,mobile phone can not be touched when the phone is squeezed in the pocket or slided for the fabric"</string>     
+    <!-- konka-zhaoyang-KonkaWisdomGene-20140213-end -->
+    
+    <!-- konka-zhangyanni-KonkaWisdomGene-20130107-start -->
+    <string name="simulate_experience_exp">"simulate"</string>
+    <string name="simulate_experience_cancel">"cancel"</string>
+    
+    <string name="smart_call_settings_content">"Switch to hands-free mode when you put your phone away"</string>
+    <string name="against_eaveasdropping_settings_content">"if there is a comparatively long distance, then volume will be turned up accordingly, and vice versa"</string>
+    <string name="direct_call_settings_content">"Call contact whose message details are currently onscreen"</string>
+    <string name="smart_stay_settings_content">"the device screen will "stay" in the same brightness range while you are reading or browsing"</string>
+    <string name="smart_alert_settings_content">"smartly alert you about the missed calls, new messages and set schedules via normal vibration"</string>
+    <string name="increase_volume_settings_content">"Ringtone volume increases when device is in pocket or bag"</string>
+    <string name="unlock_action_settings_content">"When light screen mobile phone lock screen interface,hand over top of the cell phone unlocked"</string>
+    <string name="flip_mute_settings_content">"Turn over the phone it will be muted when you have a call(Glove mode will be closed)"</string>
+    <!-- konka-zhangyanni-2013-9-17-start -->
+    <string name="flip_mute_without_glovemode_settings_content">"Turn over the phone it will be muted when you have a call"</string>
+    <!-- konka-zhangyanni-2013-9-17-end -->
+    <string name="ringtone_fade_settings_content">"Got on the phone ring tones from the flat - mounted slowly weakened"</string>
+    
+    <!-- konka-hoking-20130518-start -->
+    <!-- konka-zhangyanni-2014-2-13-start -->
+    <!--<string name="glove_mode_settings_content">"answer the call immediately when you pick up the phone(Turn over to mute will be closed)"</string>-->
+    <string name="glove_mode_settings_content">"answer the call immediately when you pick up the phone"</string>
+    <!-- konka-zhangyanni-2014-2-13-end -->
+    <string name="magic_unlock_settings_content">"When light screen mobile phone lock screen interface,for 2 seconds to unlock blowing into the microphone"</string>
+    <!-- konka-hoking-20130518-end -->
+    
+    <string name="smart_call_dialog_title">"simulate smart call"</string>
+    <string name="against_eaveasdropping_dialog_title">"simulate eaveasdropping"</string>
+    <string name="direct_call_dialog_title">"simulate direct call"</string>
+    <string name="increase_volume_dialog_title">"simulate pocket mode"</string>
+    <string name="unlock_action_dialog_title">"simulate action to unlock"</string>
+    <string name="smart_call_dialog_content">"put the device away ear"</string>
+    <string name="against_eaveasdropping_dialog_content">"put the device away ear"</string>
+    <string name="direct_call_dialog_content">"put the device near face"</string>
+    <string name="increase_volume_dialog_content">"put the device into pocket"</string>
+    <string name="unlock_action_dialog_content">"hand over near the cell phone camera unlocked"</string>
+    
+    <!-- konka-zhangyanni-KonkaWisdomGene-20130107-end --> 
+
+    <!-- konka-xialiang-SpeechClient-20130321-start -->
+    <string name="header_category_speech_client">Speech Assistant</string>
+    <!-- konka-xialiang-SpeechClient-20130403-end -->
+    <!-- konka-xialiang-QuickLockScreen-20130108-start -->
+    <string name="quick_lock_screen_settings_title">Pull-down Lock</string>
+    <string name="quick_lock_screen_summary">Three or more fingers click top of the device and then drag down to lock screen and make screen off</string>
+    <string name="quick_lock_screen_help_info">Three or more fingers click top of the device and then drag down to lock screen and make screen off, one finger does the default thing.</string>
+    <string name="down_drop_style">Down Drop Style</string>
+    <string name="help_info_title">Help Information</string>
+    <string name="button_text_gallery">Gallery</string>
+    <string name="wallpaper_switch_title">Use Wallpaper</string>
+    <string name="select_from_gallery">From Gallery</string>
+    <string name="dialog_message_is_loading">Loading...</string>
+     <!-- konka-xialiang-QuickLockScreen-20130403-end -->
+ 		<string name="light_screen_settings_title">"Home key wakeup"</string>
+ 		<string name="light_screen_settings_content">"The home key to wake the system"</string>
+    <!-- konka-zhangyanni-20130719-start -->
+    <string name="lock_action_settings_title">"Lock Action"</string>
+    <string name="lock_action_settings_content">"hand over near the cell phone camera locked"</string>
+    <!-- konka-zhangyanni-20130719-end -->
+	<!-- konka-caihanzhong-20130802-start -->
+    <string name="anti_fake_touch_settings_title">"Anti Fake Touch"</string>
+	<string name="anti_fake_touch_settings_content">"Anti fake touch when should not be touched."</string>
+    <!-- konka-caihanzhong-20130802-end -->
+    
+    <!-- konka-xiaxiaoling-SmartCover-20140208-start -->
+    <string name="smart_cover_settings_title">Smart Cover</string>
+    <string name="smart_cover_settings_content">"When Close the holster,it can show the small window including  standby, music playback, calling or going and so on, And When open the holster, it can bright screen and unlock automatically."</string>  
+    <string name="smart_cover_settings_wallpaper_title">Select Wallpaper</string>
+    <!-- konka-xiaxiaoling-SmartCover-20140208-end -->
+    	        
+    <!--konka-zhaoyang-KonkaGene-switchchange-20140305-start-->
+    <string name="anti_fake_touch_message">Open Anti Fake Touch, close Smart Cover !</string>
+    <string name="smart_cover_message">Open Smart Cover, close Anti Fake Touch !</string>
+    <!--konka-zhaoyang-KonkaGene-switchchange-20140305-end-->
+    
+    <!-- konka-zhangjie-SmartSlide-20140220-start -->
+    <string name="smart_slide_settings_title">"Smart Slide"</string>
+    <!-- konka-zhangjie-SmartSlide-20140220-end -->
+    
+        <!--konka-zhaoyang-KonkaGene-Classify-20140324-start-->
+	<string name="gene_smart">"Smart"</string>
+	<string name="gene_unlock">"Unlock"</string>
+	<string name="gene_lock">"Lock"</string>
+	<!--konka-zhaoyang-KonkaGene-Classify-20140324-end-->
+   
+   <!-- konka-dingye-SmartSlide-20140318-start -->
+    <string name="smart_slide_settings_content">"Use gestures to operate the phone when screen is power off."</string>
+    <string name="konka_smart_slide_settings_lists">"Smart Slide Settings"</string>
+    
+    <string name="smart_left_slide_setting_title">"Smart Left Slide"</string>
+    <string name="smart_left_slide_setting_content">"Turn the music to last one when there is a music playing in background."</string>
+    <string name="smart_left_slide_help_info">"When the screen is off, slide left on it."</string>
+    
+    <string name="smart_right_slide_setting_title">"Smart Right Slide"</string>
+    <string name="smart_right_slide_setting_content">"Turn the music to next one when there is a music playing in background"</string>
+    <string name="smart_right_slide_help_info">"When the screen is off, slide right on it."</string>
+    
+    <string name="smart_up_slide_setting_title">"Smart Up Slide"</string>
+    <string name="smart_up_slide_setting_content">"Light up the screen."</string>
+    <string name="smart_up_slide_help_info">"When the screen is off, slide up on it."</string>
+    
+    <string name="smart_down_slide_setting_title">"Smart Down Slide"</string>
+    <string name="smart_down_slide_setting_content">"Light up the screen."</string>
+    <string name="smart_down_slide_help_info">"When the screen is off, slide down on it."</string>
+    
+    <string name="smart_double_click_setting_title">"Smart Double Click Slide"</string>
+    <string name="smart_double_click_setting_content">"Light up the screen."</string>
+    <string name="smart_double_click_help_info">"When the screen is off, double tap on it."</string>
+    
+	<string name="smart_char_o_slide_setting_title">"SmartSlide: Char O"</string>
+    <string name="smart_char_o_slide_setting_content">"Into Camera"</string>
+    <string name="smart_char_o_slide_help_info">"When the screen is off, slide char O on it."</string>
+    
+	<string name="smart_char_w_slide_setting_title">"SmartSlide: Char W"</string>
+    <string name="smart_char_w_slide_setting_content">"Into ContactsList"</string>
+    <string name="smart_char_w_slide_help_info">"When the screen is off, slide char W on it."</string>
+    
+	<string name="smart_char_m_slide_setting_title">"SmartSlide: Char M"</string>
+    <string name="smart_char_m_slide_setting_content">"Play Music."</string>
+    <string name="smart_char_m_slide_help_info">"When the screen is off, slide char M on it."</string>
+    
+	<string name="smart_char_e_slide_setting_title">"SmartSlide: Char e"</string>
+    <string name="smart_char_e_slide_setting_content">"Into Sms List."</string>
+    <string name="smart_char_e_slide_help_info">"When the screen is off, slide char E on it."</string>
+    
+	<string name="smart_char_c_slide_setting_title">"SmartSlide: Char C"</string>
+    <string name="smart_char_c_slide_setting_content">"Into CallUI."</string>
+    <string name="smart_char_c_slide_help_info">"When the screen is off, slide char C on it."</string>
+    
+    <string name="notrecognize">No gesture recognized!</string> 
+    <string name="noprediction">Gesture recognition rate is too low, please enter again.</string> 
+    <string name="noloading">Gesture is not loading.</string> 
+    <string name="myGestureHint">Please make the Gesture in the area below.</string>
+    <string name="wronggestures">"Gestures you entered does not conform to, please draw again."</string>
+    <string name="rightgestures">"Congratulations you learned this gesture."</string>
+    <string name="tryagain">"You input the wrong 3 times in a row hand gestures, please watch carefully gesture after the animation and try again."</string>
+    <string name="experiencehint">"Screen will power off, please draw the corresponding gesture"</string>
+    <!-- konka-dingye-SmartSlide-20140318-end-->
+    </resources>

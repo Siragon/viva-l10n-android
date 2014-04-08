@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	
+	<!-- konka-xieyan-ThemeSwitch-20140102-start -->
+	<string name="themes_mgr">Theme Manager</string>
+	<string name="themes_cur_theme">Current Theme</string>
+	<string name="themes_select_theme">Select Theme</string>
+	<string name="themes_default_theme">Default Theme</string>
+	<string name="themes_initializing">"initializing&#8230;"</string>
+	<string name="themes_menu_bg_is_theme_bg">Theme default</string>
+	<string name="themes_menu_bg_is_wallpaper">Wall paper</string>
+	<string name="all_apps_background">All apps background</string>
+	<string name="transparence_of_all_app_background">Transparence of all apps background</string>
+	<string name="icons">Icons</string>
+	<string name="themes">Themes</string>
+	<!-- konka-xieyan-ThemeSwitch-20140102-end -->
+	
+    <!-- konka-pengzhongdong-HideApp-20140207-start -->
+	<string name="menu_hide_app" >"hide app"</string>
+	<string name="menu_show_hide_app" >"show hide app"</string>
+	<string name="select" >"select:"</string>
+	<string name="OK" >"OK"</string>
+	<string name="cancel" >"cancel"</string>
+	<string name="initializing" >"please wait"</string>	
+	<!-- konka-pengzhongdong-HideApp-20140207-end -->	
+
+	<!-- konka-pengzhongdong-AppOrder-20140314-start -->
+	<string name="menu_order_settings">App Order</string>
+	<string name="menu_order_settings_app_name">Letter order</string>
+	<string name="menu_order_settings_install_time">Install time order</string>
+	<!-- konka-pengzhongdong-AppOrder-20140314-end -->
+
+</resources>

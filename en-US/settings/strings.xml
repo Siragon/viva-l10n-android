@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!--konka-zhaoyang-move message tone setting to Settings/Audio profiles-20140311-start-->
+    <string name="message_notification_ringtone_title">MESSAGES</string>
+    <string name="message_ringtone_title">Messages ringtone</string>
+    <string name="message_ringtone_summary">Set default messages ringtone</string>
+    <!--konka-zhaoyang-move message tone setting to Settings/Audio profiles-20140311-end-->
+    
+    <!-- konka-xww-Gamma Function-20131129-start -->
+    <string name="gamma_function">Colour Temperature Adjusting</string>
+    <!-- konka-xww-Gamma Function-20131129-end -->
+	<!-- konka-chenliping-Settings-Calibrate-20140116-start -->
+	<!-- yangxf 20130614 begin -->
+    <string name="calibration_summary_title">Gyro sensor calibration</string>
+    <string name="acc_calibration">Acceleration sensor calibration</string>
+    <string name="gyro_calibration">Gyro sensor calibration</string>
+    <string name="do_calibration">Calibrating</string>
+    <string name="clear_calibration">Clear</string>
+    <string name="init_faill">Initialization fail!</string>
+    <string name="init_pass">Initialization pass!</string>
+    <string name="calibration_pass">Calibration pass!</string>
+    <string name="calibration_faill">Calibration fail!</string>
+    <string name="calibration_pass_infor">Five seconds after calibration pass, the mobile will reboot to make data effective.</string>
+    <string name="calibration_faill_infor">Pls put the mobile on the table in horizonal, don`t move the mobile or make any behavior of vibration. Press the button \"calibration\". Five seconds after calibration pass, the mobile will reboot to make data effective.</string>
+    <!-- yangxf 20130614 end -->
+    <!-- konka-chenliping-Settings-Calibrate-20140116-end -->
+    <!--add by konka huangshaoqing 20140126 plartform92 start.-->
+    <!-- konka aixingfang for display totle space Info. 2013.05.28 start -->
+    <string name="total_space">PHONE STORAGE</string>
+    <string name="total_title">Total space</string>
+    <string name="total_summary">16GB</string>
+    <string name="rom_title">ROM</string>
+    <string name="rom_summary">2.57GB</string>
+    <string name="sdin_title">USB storage</string>
+    <string name="sdin_summary">12.29GB</string>
+    <string name="data_title">DATA</string>
+    <string name="data_summary">1.14GB</string>
+    <!-- konka aixingfang for display totle space Info. 2013.05.28 end -->
+    <!--add by konka huangshaoqing 20140126 plartform92 end.-->
+    
+    <!-- konka-xww-KonkaGene-20140227-start -->
+    <!-- konka-zhangyanni-konkaWisdomGene-20130605-start -->
+    <string name="header_category_konkawisdomgene">WisdomGene</string>
+    <string name="wisdom_gene_switch_settings">Switch Settings</string>
+    <!-- konka-zhangyanni-konkaWisdomGene-20130605-end -->
+    <!-- konka-xww-KonkaGene-20140227-end -->
+
+    <!-- konka-xww-keypad LED-20140117-start -->
+    <!-- konka-wubaiyu-buttonlight-2-13.07.29-start -->
+    <string name="buttonlight_summary">Adjust the delay time before the LED automatically shut down</string>
+    <string name="buttonlight_setting">Custom LED</string>
+    <!-- konka-wubaiyu-buttonlight-2-13.07.29-end -->
+    <!-- konka-xww-keypad LED-20140117-end -->
+    
+     <!-- konka-yulili-konkaassistantswitch-201340214-start -->
+    <string name="header_category_konkashortcutwd">Assistant</string>
+    <string name="shortcutwd_switch_settings">Switch Assistant</string>
+    <!-- konka-yulili-konkaassistantswitch-201340214-end -->
+    <string name="audio_profile_bes_loudness_title">BesLoudness</string>
+    <string name="music_plus_title">BesAudEnh</string>
+</resources>

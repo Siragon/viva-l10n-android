@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="app">手电筒</string>
+    <string name="theme">Default</string>
+    <string name="exit">Exit</string>
+    <string name="update_frequency">Update Frequency</string>
+    <!-- konka aixingfang 20130905 start -->
+<!--    <string name="update_setting">Settings</string> -->
+    <string name="update_setting">Help</string>
+    <!-- konka aixingfang 20130905 end -->
+    <string name="update_auto">Auto Update</string>
+    <string name="update_now">Check for New Version</string>
+    <string name="update_week">Weekly Update</string>
+    <string name="update_month">Monthly Update</string>
+    <string name="update_never">Never Update</string>
+    <string name="update_wifi">Update When wifi Connected</string>
+    <string name="dialog_title">Warm Tips</string>
+    <string name="dialog_text">The conflict between the application of Camera and KonkaFlashLight,when flash is normally on!</string>
+    <string name="ok">Ok</string>
+    <string name="update_title">Version Update</string>
+    <string name="update_text">Checked to the new version, Whether to update?</string>
+    <string name="no_update_text">Did not check into the new version, it is recommended to update later!</string>
+    <string name="update">Update Now</string>
+    <string name="cancle">No Update</string>
+    <string name="frequencySetting">Setting the automatic update cycle</string>
+    <string name="on">Open</string>
+    <string name="off">Close</string>
+    <string name="about_us">About Us</string>
+    <string name="progress_title">Checked for New Version</string>
+    <string name="progress_mess">Being checked,please wait....</string>
+    <string name="notify_success">Successful download,Click install</string>
+    <string name="notify_fail">Download failed</string>
+    <string name="updatting">Downloading</string>
+    <string name="update_start">Download start</string>
+    <string name="network_available">No available network</string>
+    <string name="version_available">Connection fails </string>
+    <string name="sd_place">insufficient memory of SdCard</string>
+    <string name="sd_status">No SdCard</string>
+    <string name="update_skin">Theme Changed</string>
+    <string name="change_skin">Being Changed</string>
+    <string name="download_title">Theme Download</string>
+    <string name="down_cancle">Cancle</string>
+    <string name="down_ok">Dowload</string>
+    <string name="skin_change">Apply</string>
+    <string name="unzip_done">Extraction completed,Being changed</string>
+    <string name="ab_version">Version:</string>
+    <string name="forum">Official Forum</string>
+    <string name="forum_address">www.museui.com</string>
+    <string name="sina_microblog">Sina Weibo</string>
+    <string name="ab_official_bb">Official Forum</string>
+    <string name="at_muse_ui">"@MuseUI"</string>
+    <string name="tencent_microblog">Tencent Weibo</string> 
+    <string name="service_QQ">Services QQ:2817457226</string>
+    <string name="copyright_info">MuseUI Studio Copyright</string> 
+    <string name="localskin">Local Theme</string>
+    <string name="onlineskin">Online Theme</string>
+    <string name="current_theme">Is the current Theme</string>
+    <string name="change_tip">Please turn off the flash,then change the Theme.</string>
+    <string name="cannot_connect_camera">Cannot connect to the flash.</string>
+    <!-- konka  add Noticefication  20130320 start-->
+    <string name="light_opened">Running in the background</string>
+    <string name="switch_skins">Enable to flip left or right switching different skin in main interface</string>
+    <string name="no_resource">No more Resources</string>
+    <!-- konka  add Noticefication  20130320 end-->
+    <!-- konka  add Noticefication  20130327 end-->
+    <string name="help_text">Help and Documentation</string>
+    <string name="text_detail">The conflict between the application of Camera and KonkaFlashLight,when flash is normally on!</string>
+    <!-- konka  add Noticefication  20130327 end-->
+</resources>

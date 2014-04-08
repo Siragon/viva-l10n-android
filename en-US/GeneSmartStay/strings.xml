@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SmartStay</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_smart_stay">SmartStay</string>
+    <string name="StartAction">开始</string>
+    <string name="StartStop">停止</string>
+    <string name="app_title">SmartStay</string>
+	<string name="app_running">SmartStay is Running</string>
+
+</resources>

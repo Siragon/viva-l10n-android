@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">AnalogClock</string>
+    <string name="app_name1">AnalogClock1</string>
+    <string name="app_name2">AnalogClock2</string>
+    <string name="app_name3">AnalogClock3</string>
+    
+    <string name="analog_appwidget_textview_shadowDx">2.0</string>
+    <string name="analog_appwidget_textview_shadowDy">2.0</string>
+    <string name="analog_appwidget_textview_shadowRadius">1</string>
+    
+    <string name="month" >8</string>
+    <string name="date">8</string>
+
+</resources>

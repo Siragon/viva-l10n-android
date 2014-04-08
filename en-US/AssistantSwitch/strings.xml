@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Assistant</string>
+    <string name="title_activity_shortcut">Assistant</string>
+    <string name="app0">Lockscreen</string>
+    <string name="app1">Home</string>
+    <string name="app2">CaptureScreen</string>
+    <string name="app3">MultiTask</string>
+    <string name="app4">CleanMemory</string>
+    <string name="app5">E-mail</string>
+    <string name="app6">Calculator</string>
+    <string name="app7">Flashlight</string>
+    <string name="stringsnull">Null</string>
+    <string name="title_applistActivity">The listview of Applications:</string>
+    <string name="title_smalltoolActivity">The listview of Smalltool:</string>
+    <string name="str_wait">wait for a moment,</string>
+    <string name="str_collectmsg">It is collecting software message</string>
+    <string name="titleapp">App</string>
+    <string name="titleshortcut">Shortcut</string>
+    <string name="lockscreen">lockscreen</string>
+    <string name="multi">multi</string>
+    <string name="homescreen">Home</string>
+    <string name="captruescreen">captruescreen</string>
+    <string name="close">close</string>
+    <string name="clearmemory">clearmemory</string>
+    <string name="email">e-mail</string>
+    <string name="calculator">calculator</string>
+    <string name="flashlight">flashlight</string>
+    <string name="beststatus">your phone is the best status!</string>
+    <string name="release">It is released:</string>
+    <string name="activatedevice">please into the SystemSetting->safe device:activate permission</string>
+    <string name="stradd">add</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">KonkaSmartCover</string>
+    
+    <!-- MissedCall and UnreadSms -->
+	<string name="no_subject_view">(No subject)</string>
+	<plurals name="single_missed_call_count">
+		<item quantity="one">"<xliff:g id="MISSED_COUNT">%d</xliff:g> missed call"</item>
+		<item quantity="other">"<xliff:g id="MISSED_COUNT">%d</xliff:g> missed calls"</item>
+	</plurals>	
+	<plurals name="single_unread_sms_count">
+		<item quantity="one">"<xliff:g id="UNREAD_COUNT">%d</xliff:g> unread message"</item>
+		<item quantity="other">"<xliff:g id="UNREAD_COUNT">%d</xliff:g> unread messages"</item>
+	</plurals>
+	<string name="missed_call">"Missed Call."</string>
+	<string name="multi_unread_count">"<xliff:g id="TOTALCOUNTS">%1$d</xliff:g>"</string>
+	
+	<!-- Music Player -->	
+	<string name="durationformatshort"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>
+    <!-- Do not translate. Duration format for duration >= 1 hour -->
+    <string name="durationformatlong"><xliff:g id="format">%1$d:%3$02d:%5$02d</xliff:g></string>
+    <string name="time_separator_str">"/"</string>
+    
+    
+    <!-- konka-zhaoyang-SmartCover-20140107-start -->
+    <string name="phone_small_window_answer">"Answer"</string>
+    <string name="phone_small_window_hang_up">"Hang up"</string>
+    <string name="phone_small_window_in_call">"In Calling&#8230;"</string>
+    <string name="phone_small_window_dialing">Dialing</string>
+    <string name="phone_small_window_unknown">"Unknown"</string>
+    
+	<!-- konka-zhaoyang-SmartCover-20140107-end-->
+	
+	<!-- konka-chenliping-smartcover-20140208-start -->
+	<string name="phone_small_window_end_call">"Call ended"</string>
+	<string name="phone_small_window_hold_call">"On hold"</string>
+	<!-- konka-chenliping-smartcover-20140208-end -->
+</resources>
